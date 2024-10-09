@@ -158,12 +158,14 @@ section{
 }
 .content1 p{
     background: none;
-    color: aliceblue;
+    color: rgb(12, 89, 156);
+    font-size: small;
 }
 #img{
-    height: 68%;
-    width: 90%;
+    height:80%;
+    width: 95%;
     margin-left: 5%;
     margin-top: 5%;
+    border-radius: 12px;
 
 }
